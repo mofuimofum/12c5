@@ -1,0 +1,7 @@
+.content {
+    max-width: 400px;
+    width: 30%;
+    margin: auto;
+    text-align: justify;
+    line-height: 1.6;
+}

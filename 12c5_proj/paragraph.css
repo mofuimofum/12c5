@@ -1,0 +1,28 @@
+.styled-paragraph1 {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.headernk
+{
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.caclama
+{
+    text-align: none;
+    float:left;
+    font-family: "Inter", sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.styled-paragraph2 {
+    text-align: left;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
